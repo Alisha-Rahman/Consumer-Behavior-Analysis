@@ -75,3 +75,17 @@ The Diwali Sales Analysis helped identify important patterns in customer purchas
 - These insights can help businesses better understand their customers, identify high-demand products, and make more informed marketing and sales decisions.
 
 Overall, this project demonstrates how Python can be used to clean, analyze, visualize, and extract meaningful business insights from sales data.
+
+## 📸 Project Screenshots
+
+### 1. Project Setup & Dataset
+![Project Setup](project_setup.png)
+
+### 2. Data Cleaning
+![Data Cleaning](data_cleaning.png)
+
+### 3. Sales Analysis
+![Sales Analysis](sales_analysis.png)
+
+### 4. Project Conclusion
+![Conclusion](conclusion.png)
